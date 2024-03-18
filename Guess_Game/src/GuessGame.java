@@ -13,7 +13,7 @@ public class GuessGame {
     public void start() {
         setRandomNumber();
         int localRandomNumber = getRandomNumber();
-        System.out.println(localRandomNumber);
+        // System.out.println(localRandomNumber);
 
         setPlayerAmount();
         int localPlayerAmount = getPlayerAmount();
