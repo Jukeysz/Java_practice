@@ -1,1 +1,1 @@
-Some Java projects and exercises to improve my Java knowledge and my OOP skills.
+My first touch with a basic example of Object Oriented Programming using Java
